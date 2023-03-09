@@ -1,0 +1,88 @@
+nav a {
+  border-radius: 5px;
+  box-shadow:0 1px 1px lightGreen, inset 0 1px 0 honeyDew;
+  display:block;
+  font-size:18px;
+  text-decoration: none;
+   background-color: rgba(124,0,252);
+  color:Darkviolet;
+  border: 1px solid RebeccaPurple;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+  text-shadow: 0px 1px 0px white;
+  width:250px;
+   background-image: linear-gradient(DarkSlateBlue,Indigo);
+  background-image: -webkit-linear-gradient(DarkSlateBlue,Indigo);
+background-image: -moz-linear-gradient(DarkSlateBlue,Indigo);
+background-image: -o-linear-gradient(DarkSlateBlue,Indigo);
+ background-image: linear-gradient(DarkSlateBlue,Indigo);
+}
+
+a {
+  background-image: -webkit-linear-gradient(DarkSlateBlue,Indigo);
+background-image: -moz-linear-gradient(DarkSlateBlue,Indigo);
+background-image: -o-linear-gradient(DarkSlateBlue,Indigo);
+ background-image: linear-gradient(DarkSlateBlue,Indigo);
+}
+
+nav a:hover {
+  box-shadow:0 1px 1px lightGreen, inset 0 1px 0 honeyDew;
+  border-radius: 20px;
+  display:inline-block;
+  font-size:36px;
+  text-decoration: none;
+   background-color: rgba(124,0,252);
+  color:DeepSkyBlue;
+  border: 1px solid RebeccaPurple;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:20px;
+  text-shadow: 0px 1px 0px white;
+  width:250px;
+   background-image: linear-gradient(Darkviolet,Indigo);
+  background-image: -webkit-linear-gradient(Darkviolet,Indigo);
+background-image: -moz-linear-gradient(Darkviolet,Indigo);
+background-image: -o-linear-gradient(Darkviolet,Indigo);
+ background-image: linear-gradient(Darkviolet,Indigo);
+}
+
+a:visited {
+  background-image: -webkit-linear-gradient(DarkSlateBlue,DarkRed);
+background-image: -moz-linear-gradient(DarkSlateBlue,DarkRed);
+background-image: -o-linear-gradient(DarkSlateBlue,DarkRed);
+ background-image: linear-gradient(DarkSlateBlue,DarkRed);
+}
+
+nav a:visited {
+  border-radius: -2px;
+  box-shadow:0 1px 1px lightGreen, inset 0 1px 0 honeyDew;
+  display:block;
+  font-size:9px;
+  text-decoration: strikethrough;
+   background-color: rgba(124,0,252);
+  color:Darkviolet;
+  border: 1px solid crimson;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:5px;
+  text-shadow: 0px 1px 0px black;
+  width:125px;
+   background-image: linear-gradient(DarkSlateBlue,DarkRed);
+  background-image: -webkit-linear-gradient(DarkSlateBlue,DarkRed);
+background-image: -moz-linear-gradient(DarkSlateBlue,DarkRed);
+background-image: -o-linear-gradient(DarkSlateBlue,DarkRed);
+ background-image: linear-gradient(DarkSlateBlue,DarkRed);
+}
+
+h1:active {
+ background-color:white;
+  text-decoration: underline;
+  font: italic;
+}
