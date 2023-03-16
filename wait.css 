@@ -1,17 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>My music</title>
-  <style>
-    #music-i-made {
+
+body {
   background-image: url(https://images.unsplash.com/photo-1516653980844-c68df1de5249?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
 }
 
-#music-i-made h1:hover {
+h1:hover {
   color: rgba(255,255,255, 0.0);
 }
 
-#music-i-made a {
+a {
   border-radius: 5px;
   box-shadow:0 1px 1px DarkOrange, inset 0 1px 0 gold;
   display:block;
@@ -33,11 +29,3 @@ background-image: -moz-linear-gradient(Goldenrod,olive);
 background-image: -o-linear-gradient(Goldenrod,olive);
  background-image: linear-gradient(Goldenrod,olive);
 }
-
-  </style>
-</head>
-<body id="music-i-made">
-<h1>This site is for music I made. it will be empty for a while</h1>
-  <a href="Music-I-made.html">wait...</a>
-</body>
- </html>
