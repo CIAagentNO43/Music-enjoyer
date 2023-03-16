@@ -28,6 +28,11 @@ background-image: -o-linear-gradient(DarkSlateBlue,Indigo);
  background-image: linear-gradient(DarkSlateBlue,Indigo);
 }
 
+body {
+  width: 100%;
+  
+}
+
 nav a:hover {
   box-shadow:0 1px 1px lightGreen, inset 0 1px 0 honeyDew;
   border-radius: 20px;
@@ -83,6 +88,57 @@ background-image: -o-linear-gradient(DarkSlateBlue,DarkRed);
 
  html {
  background-image:url(https://images.unsplash.com/photo-1537147347432-676815edd56c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80);
+}
+
+footer {
+ border: 4px dotted grey;
+  color: darkslateblue;
+}
+
+footer a {
+    border-radius: 10px;
+  box-shadow:0 1px 1px lightGreen, inset 0 1px 0 honeyDew;
+  display:inline-block;
+  font-size:9px;
+  text-decoration: none;
+   background-color: rgba(124,0,252);
+  color:Darkviolet;
+  border: 1px solid RebeccaPurple;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:2px;
+  text-shadow: 0px 1px 0px white;
+  width:50px;
+   background-image: linear-gradient(DarkSlateBlue,Indigo);
+  background-image: -webkit-linear-gradient(DarkSlateBlue,Indigo);
+background-image: -moz-linear-gradient(DarkSlateBlue,Indigo);
+background-image: -o-linear-gradient(DarkSlateBlue,Indigo);
+ background-image: linear-gradient(DarkSlateBlue,Indigo);
+}
+
+footer a:hover {
+  border-radius: 10px;
+  box-shadow:0 1px 1px lightGreen, inset 0 1px 0 honeyDew;
+  display:inline-block;
+  font-size:9px;
+  text-decoration: none;
+   background-color: rgba(124,0,252);
+  color:deepskyblue;
+  border: 1px solid purple;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left:5px;
+  margin-right:5px;
+  padding:2px;
+  text-shadow: 0px 1px 0px white;
+  width:50px;
+   background-image: linear-gradient(SlateBlue,Indigo);
+  background-image: -webkit-linear-gradient(SlateBlue,Indigo);
+background-image: -moz-linear-gradient(SlateBlue,Indigo);
+background-image: -o-linear-gradient(SlateBlue,Indigo);
+ background-image: linear-gradient(SlateBlue,Indigo);
 }
 
 #music-i-made {
