@@ -178,3 +178,8 @@ h1:active {
   text-decoration: underline;
   font: italic;
 }
+
+sup {
+  color: grey;
+  border: 3px solid lavender ; 
+}
